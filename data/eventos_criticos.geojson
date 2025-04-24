@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "Robo a restaurante",
+        "descripcion": "Asalto a mano armada reportado en redes",
+        "fecha": "2025-04-20",
+        "fuente": "Twitter"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.065,
+          4.648
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "Extorsión a comercio",
+        "descripcion": "Amenazas telefónicas a negocios",
+        "fecha": "2025-04-18",
+        "fuente": "Canal institucional"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.072,
+          4.62
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "Violencia de género",
+        "descripcion": "Agresión en establecimiento nocturno",
+        "fecha": "2025-04-19",
+        "fuente": "Instagram"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.08,
+          4.61
+        ]
+      }
+    }
+  ]
+}

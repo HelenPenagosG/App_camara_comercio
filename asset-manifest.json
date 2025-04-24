@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/%3CApp_camara_comercio%3E/static/css/main.3244233d.css",
+    "main.js": "/%3CApp_camara_comercio%3E/static/js/main.6bd34d0f.js",
+    "static/js/453.5a1959e6.chunk.js": "/%3CApp_camara_comercio%3E/static/js/453.5a1959e6.chunk.js",
+    "static/media/logo_Datanova.png": "/%3CApp_camara_comercio%3E/static/media/logo_Datanova.a962f57f05db18ca17af.png",
+    "index.html": "/%3CApp_camara_comercio%3E/index.html",
+    "main.3244233d.css.map": "/%3CApp_camara_comercio%3E/static/css/main.3244233d.css.map",
+    "main.6bd34d0f.js.map": "/%3CApp_camara_comercio%3E/static/js/main.6bd34d0f.js.map",
+    "453.5a1959e6.chunk.js.map": "/%3CApp_camara_comercio%3E/static/js/453.5a1959e6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3244233d.css",
+    "static/js/main.6bd34d0f.js"
+  ]
+}
