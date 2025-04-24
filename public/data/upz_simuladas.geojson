@@ -1,0 +1,44 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "properties": {
+          "UPZ": "Suba Oriental",
+          "riesgo_upz": 0.78
+        },
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [-74.0835, 4.7612],
+              [-74.0811, 4.7590],
+              [-74.0790, 4.7615],
+              [-74.0802, 4.7632],
+              [-74.0835, 4.7612]
+            ]
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "UPZ": "Suba Central",
+          "riesgo_upz": 0.65
+        },
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [-74.0855, 4.7580],
+              [-74.0820, 4.7555],
+              [-74.0800, 4.7582],
+              [-74.0818, 4.7600],
+              [-74.0855, 4.7580]
+            ]
+          ]
+        }
+      }
+    ]
+  }
+  
